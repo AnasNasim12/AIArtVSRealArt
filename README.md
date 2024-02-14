@@ -1,4 +1,5 @@
 # AI-Generated vs. Real Images Classifier
+
 ## Overview
 This project aims to classify images into two categories: AI-generated images and real images. The motivation behind this project is to distinguish between authentic images and those created by artificial intelligence.
 
